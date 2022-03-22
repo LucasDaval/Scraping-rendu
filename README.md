@@ -5,6 +5,7 @@ Scraping du site https://leagueoflegends.fandom.com/
 * [requests](https://pypi.org/project/requests/)
 * [BeautifulSoup](https://pypi.org/project/beautiful/)
 * [requests_cache](https://pypi.org/project/requests-cache/)
+* [yaml](https://pyyaml.org/wiki/PyYAMLDocumentation)
 
 
 ## Commandes utiles
