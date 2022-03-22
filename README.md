@@ -22,5 +22,10 @@ afficher les champions :
 afficher les champions récemment scraped :
 <pre>print(yaml.dump(solution['Scraped champions'], sort_keys=False, default_flow_style=False))</pre>
 
+## Tentative d'ajout de couleur en console pour bien visualiser les différentes parties scraped
+* [colorama](https://pypi.org/project/colorama/)
+* [colored](https://pypi.org/project/colored/)
+* ...
+
 ## Auteur
 * Lucas DAVAL alias [@LucasDaval](https://github.com/LucasDaval)
